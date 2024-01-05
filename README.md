@@ -51,7 +51,7 @@ The dataset was cleaned and queried using MySQL inside Jupyter Notebook and visu
 •	The gender distribution across departments is fairly balanced but there are generally more male than female employees.
 
 •	The Marketing department has the highest turnover rate followed by Training. The least turnover rate are in the Research and development. Support and Legal 
-  departments.
+   departments.
   
 •	A large number of employees come from the state of Ohio.
 
